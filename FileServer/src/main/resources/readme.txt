@@ -1,0 +1,1 @@
+目前此服务端并不支持分布式，可以自己借助Redis这此第三方存储代替Config.java里面的serverAuthentication Bean就可以了
