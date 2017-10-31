@@ -12,9 +12,9 @@
 	<description>FileServer for All service instance</description>
 
 	<parent>
-		<groupId>com.agen.parent</groupId>
+		<groupId>com.agen.boot</groupId>
 		<artifactId>parent</artifactId>
-		<version>0.0.1-parent</version>
+		<version>0.0.1-boot_parent</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 
