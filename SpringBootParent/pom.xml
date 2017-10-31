@@ -55,7 +55,7 @@
 	</build>
 
 	<modules>
-		<module>../FileClient</module>
-		<module>../FileServer</module>
+		<!-- <module>../FileClient</module>
+		<module>../FileServer</module> -->
 	</modules>
 </project>
